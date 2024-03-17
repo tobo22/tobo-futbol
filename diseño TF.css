@@ -1,0 +1,197 @@
+.randoms{
+
+    background-color:white ;
+    width: 100px; ; height: 40px; ;
+}
+
+.clubes{
+
+    background-color: green;
+    width: 100px; ; height: 40px; ;
+    
+}
+
+.selecciones{
+
+    background-color:cyan;
+    width: 100px; ; height: 40px; ;
+    
+    ;}
+
+    .sudamerica{
+
+    background-color: green;
+    width: 100px; ; height: 40px; ;
+
+    }
+
+    .europa{
+
+    background-color: yellow;
+    width: 100px; ; height: 40px; ;
+    }
+
+    .asia{
+
+    background-color: blue;
+    width: 100px; ; height: 40px; ;
+
+    }
+
+    .NorteAmerica{
+
+    background-color: red;
+    width: 100px; ; height: 40px; ;
+
+    }
+
+    .libertadores{
+
+      background-color:orange ;
+      width: 100px; ; height: 40px; ;
+
+    }
+
+    .sudamericana{
+
+    background-color:blue;
+    color: white;
+    width: 100px; ; height: 40px; ;
+
+    }
+
+    .recopa{
+
+    background-color:white;
+    color: orange;
+    width: 100px; ; height: 40px; ;
+
+    }
+
+    .arg-pri{
+
+      background-color: cornflowerblue;
+      color:white
+      width: 100px; ; height: 40px; ;
+
+    }
+
+    .lpf{
+
+    background-color: yellow;
+    color: blue;
+    width: 100px; ; height: 40px; ;
+
+    }
+
+    .superliga{
+
+    background-color: blueviolet;
+    color:blue;
+    width: 100px; ; height: 40px; ;
+
+    }
+
+    .liga-arg{
+
+    background-color: aqua;
+    color: orangered;
+    width: 100px; ; height: 40px; ;
+
+    }
+
+    .copa-arg{
+
+      background-color: blue;
+      color: aqua;
+      width: 100px; ; height: 40px; ;
+
+    }
+
+    .brasileirao{
+
+    background-color: green;
+    color: yellow;
+    width: 100px; ; height: 40px; ;
+
+    }
+
+    .liga-uru{
+
+      background-color: cadetblue;
+      color: white;
+      width: 100px; ; height: 40px; ;
+
+    }
+
+    .liga-col{
+
+      background-color: yellow;
+      color: blue;
+      width: 100px; ; height: 40px; ;
+
+    }
+
+    .liga-chi{
+
+      background-color: red;
+      color: blue;
+      width: 100px; ; height: 40px; ;
+      
+    }
+  
+    .liga-ecu{
+
+      background-color: yellow;
+      color: red;
+      width: 100px; ; height: 40px; ;
+
+    }
+
+    .liga-para{
+
+      background-color: blue;
+      color: red;
+      width: 100px; ; height: 40px; ;
+
+    }
+
+    .liga-bol{
+
+      background-color: green;
+      color: red;
+      width: 100px; ; height: 40px; ;
+
+    }
+
+    .liga-per{
+
+      background-color: red;
+      color: white;
+      width: 100px; ; height: 40px; ;
+      
+    }
+
+    .ucl{
+
+      background-color: blue;
+      color: white;
+      width: 100px; ; height: 40px; ;
+
+    }
+
+    .uel{
+
+      background-color: orange;
+      width: 100px; ; height: 40px; ;
+
+    }
+
+    .conference{
+
+      background-color: green;
+      width: 100px; ; height: 40px; ;
+
+    }
+
+ 
